@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+body{
+    background-image: url('imagens/fundo-madeira.jpg');
+    background-size: cover;
+}
+div{
+    display: inline-block;
+}
+#celular{
+    background-image: url('imagens/frame-iphone.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logos{
+    margin-right: 0px;
+    border-radius: 50%;
+
+}
